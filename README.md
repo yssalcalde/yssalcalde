@@ -21,4 +21,4 @@ I build computational tools to model complex physical phenomena, translating the
 *(Section currently being updated with simulation solvers and research scripts)*
 
 - **[Orbital Mechanics Simulator](https://github.com/yssalcalde/Orbital-Mechanics-Simulator)**  
-  A Python physical simulation tool to calculate and visualize orbits under central gravity fields. *
+  Interactive 3D Python simulator and benchmarking engine for restricted two-body dynamics. Evaluates numerical stability, energy conservation, and convergence orders across Explicit/Implicit Euler, RK4, and Velocity Verlet integrators.
