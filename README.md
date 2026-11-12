@@ -19,4 +19,5 @@ I am particularly interested in scientific computing and numerical simulation, a
 
 - **[Orbital Mechanics Simulator](https://github.com/yssalcalde/Orbital-Mechanics-Simulator)**  
   Interactive 3D Python simulator and benchmarking engine for restricted two-body dynamics. Evaluates numerical stability, energy conservation, and convergence orders across Explicit/Implicit Euler, RK4, and Velocity Verlet integrators.
-More Projects soon....
+  
+- **More Projects soon....**
